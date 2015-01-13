@@ -1,5 +1,25 @@
-body {
-  background-image: url("../images/background.png");
+#section_one {
+  background-image: url("../images/background_one.png");
+  height: 100%;
+  width: 100%;
+}
+
+#section_two {
+  background-image: url("../images/background_two.png");
+  height: 100%;
+  width: 100%;
+}
+
+#section_three {
+  background-image: url("../images/background_three.jpg");
+  height: 100%;
+  width: 100%;
+}
+
+#section_four {
+  background-image: url("../images/background_four.jpg");
+  height: 100%;
+  width: 100%;
 }
 
 h1 {
