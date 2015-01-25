@@ -1,3 +1,20 @@
+#banner {
+  font-family: 'Lobster', cursive;
+  color: #000000;
+  font-size: 60px;
+  text-align: center;
+}
+
+#navigation {
+  background-color: #ffffff;
+  position: fixed; 
+  top: 0;
+  width: 100%;
+  height: 50px;
+  border-bottom: 5px black solid;
+
+}
+
 #section_one {
   background-image: url("../images/background_one.png");
   height: 100%;
@@ -20,13 +37,6 @@
   background-image: url("../images/background_four.jpg");
   height: 100%;
   width: 100%;
-}
-
-h1 {
-  font-family: 'Lobster', cursive;
-  color: #ffffff;
-  font-size: 60px;
-  margin-top: 200px;
 }
 
 p {
